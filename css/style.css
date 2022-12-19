@@ -856,6 +856,7 @@ section {
 
 #footer .footer-newsletter {
   font-size: 15px;
+  display: none;
 }
 
 #footer .footer-newsletter h4 {
