@@ -258,7 +258,7 @@ p{
     .collumn{
         width: 100%;
     }
-	.collumn + .collumn {
+	.collumn{
 				border-left: none;
       	border-bottom: 1px solid #2f2f2f;
 	}
